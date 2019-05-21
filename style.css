@@ -29,3 +29,7 @@
     width: 35px;
     background: url(icon.jpg);
 }
+
+.bg-gradient {
+    background-image:linear-gradient( to bottom, #f3f3f3, #d4d4d4);
+}
