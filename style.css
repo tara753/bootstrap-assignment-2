@@ -1,13 +1,12 @@
-.icon{
+.icon {
 
     height: 30px;
     width: 30px;
     background-size: 96px !important;
     background: url(3icon.jpg);
     background-position-y: -3px;
-
-
 }
+
 .setting {
     background-position-x: 63px;
 }
@@ -20,11 +19,12 @@
     background-position-x: -59px;
 }
 
-.float-left{
+.float-left {
     float: left;
 }
-.up_icon{
-     
+
+.up_icon {
+
     height: 24px;
     width: 35px;
     background: url(icon.jpg);
